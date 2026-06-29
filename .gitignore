@@ -1,3 +1,14 @@
 tugas.pdf
 .venv
 datasets
+
+# Latex build artifacts
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
